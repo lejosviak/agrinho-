@@ -14,11 +14,10 @@ body {
 }
 
 header {
-    background: #53A81B; /* Verde escuro para o cabeçalho */
+    background: #FFFFFF; /* Verde escuro para o cabeçalho */
     color: #fff;
     padding-top: 30px;
     min-height: 70px;
-    border-bottom: #53A81B 3px solid;
 }
 
 header a {
