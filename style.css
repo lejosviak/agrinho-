@@ -1,0 +1,96 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+header {
+    background: #333;
+    color: #fff;
+    padding-top: 30px;
+    min-height: 70px;
+    border-bottom: #2e2e2e 3px solid;
+}
+
+header a {
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 16px;
+}
+
+header ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    float: right;
+}
+
+header li {
+    display: inline;
+    padding: 0 20px 0 20px;
+}
+
+header h1 {
+    float: left;
+    display: inline;
+}
+
+header nav {
+    float: right;
+    margin-top: 10px;
+}
+
+header #showcase {
+    min-height: 400px;
+    background: url('../img/showcase.jpg') no-repeat 0 -400px;
+    text-align: center;
+    color: #fff;
+}
+
+#produtos {
+    padding: 20px;
+    background: #fff;
+    margin-top: 20px;
+}
+
+#produtos .produto {
+    float: left;
+    width: 30%;
+    margin-right: 30px;
+    margin-bottom: 30px;
+    padding: 20px;
+    background: #f4f4f4;
+    border: #ccc 1px solid;
+}
+
+#sobre {
+    padding: 20px;
+    background: #fff;
+    margin-top: 20px;
+}
+
+#contato {
+    padding: 20px;
+    background: #fff;
+    margin-top: 20px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #333;
+    color: #fff;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+}
