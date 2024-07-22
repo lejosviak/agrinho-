@@ -50,9 +50,7 @@ header nav {
     margin-top: 10px;
 }
 
-#descricao,
-#caracteristicas,
-#comprar {
+#descricao, {
     padding: 20px;
     background:  #1E1E1E;/* Fundo branco para seções principais */
     margin-top: 20px;
