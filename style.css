@@ -4,7 +4,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: #f2f7f3; /* Verde claro para o fundo */
-    color: #ffffff;
+    color: #333;
 }
 
 .container {
@@ -22,7 +22,7 @@ header {
 }
 
 header a {
-    color: #1E1E1E;
+    color: #fff;
     text-decoration: none;
     text-transform: uppercase;
     font-size: 16px;
@@ -50,18 +50,20 @@ header nav {
     margin-top: 10px;
 }
 
-#descricao, {
+#descricao,
+#caracteristicas,
+#comprar {
     padding: 20px;
-    background:  #1E1E1E;/* Fundo branco para seções principais */
+    background: #fff; /* Fundo branco para seções principais */
     margin-top: 20px;
     border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1); /* Sombra suave */
 }
-
 
 footer {
     text-align: center;
     padding: 10px;
-    background-color: #53A81B; 
+    background-color: #2c662d; /* Verde escuro para o rodapé */
     color: #fff;
     position: relative;
     bottom: 0;
