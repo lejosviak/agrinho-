@@ -10,6 +10,7 @@ body {
     width: 100%;
     margin: auto;
     overflow: hidden;
+    font-size: 160%;
 }
 
 header {
@@ -17,6 +18,7 @@ header {
     color: #fff;
     padding-top: 30px;
     min-height: 70px;
+    text-align: center;
 }
 
 header a {
