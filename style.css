@@ -17,15 +17,15 @@ body {
 }
 
 header {
-    background: #FFFFFF; /* Verde escuro para o cabeçalho */
-    color: #fff;
+    background: #e6e6dd; /* Verde escuro para o cabeçalho */
+    color: #e6e6dd;
     padding-top: 30px;
     min-height: 70px;
     text-align: center;
 }
 
 header a {
-    color: #fff;
+    color: #e6e6dd;
     text-decoration: none;
     text-transform: uppercase;
     font-size: 16px;
@@ -55,7 +55,7 @@ header nav {
 
 #descricao {
     padding: 40px;
-    background: #fff; /* Fundo preto para seções principais */
+    background: #e6e6dd; /* Fundo preto para seções principais */
     margin-top: 20px;
     border-radius: 5px; 
 }
@@ -64,7 +64,7 @@ footer {
     text-align: center;
     padding: 10px;
     background-color: #53A81B; /* Verde escuro para o rodapé */
-    color: #fff;
+    color: #e6e6dd;
     position: relative;
     bottom: 0;
     width: 100%;
